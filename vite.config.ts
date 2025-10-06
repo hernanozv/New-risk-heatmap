@@ -7,7 +7,7 @@ export default defineConfig({
   base: '/New-risk-heatmap/',
   resolve: {
     alias: {
-      '@': './src',
+      '@': '/src',
     },
   },
   server: {
